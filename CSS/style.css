@@ -1,0 +1,104 @@
+@import url('https://font.google.com/css?family=Tahoma');              
+h1 {
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    font-family: 'minecrafter';                             
+    margin-top: 85px;
+}
+div {
+    font-size: 50px;
+    color: white;
+    word-spacing: 0px;
+    background-image: linear-gradient(to right, rgb(0, 0, 0) , rgb(0, 0, 0));
+    font-style: normal;
+}
+p {
+    margin-right: 500px;
+    color: rgb(201, 201, 201);
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 5%;
+}
+body {
+    background-image: linear-gradient(to top, rgb(155, 155, 155), rgb(95, 53, 14) , rgb(15, 116, 54) , rgb(5, 128, 199));
+    margin: 0px;
+    font-family: 'tahoma';
+    background-repeat: no-repeat;
+    margin-left: 10px;
+}
+h2 {
+    color: rgb(255, 255, 255);
+    font-family: 'minecrafter';
+    margin-left: -10px;
+    text-decoration: dashed;
+}
+img {
+    float: left;
+    width: 450px;
+    height: 250px;
+}
+article {
+    margin-right: 500px;
+    color: rgb(201, 201, 201);
+    font-size: 16px;
+    font-weight: bold;
+}
+.img1 {
+    display: block;
+    margin-top: -27%;
+    margin-right: 30px;
+}
+.img2 {
+    display: block;
+    margin-top: -23%;
+    margin-right: 30px;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+.topnav {
+    overflow: hidden;
+    background: transparent;
+    text-align:left;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    font-family: 'minecrafter';
+    color: black;
+    border-bottom: 4px solid;
+    border-top: 4px solid;
+    border-bottom-color: black;
+    border-top-color: black;
+}
+  .topnav a {
+    display: inline-block;
+    color: white;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 40px;
+}
+  .topnav a:hover {
+    background: rgb(255, 255, 255);
+    color: black;
+}
+  strong {
+      font-weight: bold;
+      font-size: 18px;  
+      color: rgb(17, 17, 17); 
+}
+
+iframe {
+    margin-right: 10%;
+    margin-bottom: 10px;
+    margin-left: -10px;
+}
+.img3 {
+    width: 100px;
+    height: 50px;
+    margin-right: 100%;
+    float: left;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
